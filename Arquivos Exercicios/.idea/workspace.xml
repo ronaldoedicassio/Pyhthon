@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="277a9190-0734-4ce4-883b-444197ad970c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Arquivos Exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Arquivos Exercicios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/Ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Ex021.py" afterDir="false" />
-    </list>
+    <list default="true" id="277a9190-0734-4ce4-883b-444197ad970c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
